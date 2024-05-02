@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "swing-atreus-rescue")(type "KiCad")(uri "${KIPRJMOD}/swing-atreus-rescue.kicad_sym")(options "")(descr ""))
+)
